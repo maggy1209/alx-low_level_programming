@@ -8,3 +8,8 @@
 * `Task 3 :` - program that prints the alphabet in lowercase, and then in uppercase, followed by a new line.
 * `Task 4 :` - Writing a program that prints the alphabet in lowercase, followed by a new line.
 * `Task 5 :` - program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
+* `Task 6 :` - program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
+You are not allowed to use any variable of type 'char'
+You can only use the 'putchar' function (every other function (printf, puts, etc…) is forbidden)
+You can only use 'putchar' twice in your code
+All your code should be in the 'main' function
