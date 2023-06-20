@@ -7,3 +7,5 @@
 4. function that checks for lowercase character.
 
 5. function that checks for alphabetic character.
+
+6. function that prints the sign of a number.
