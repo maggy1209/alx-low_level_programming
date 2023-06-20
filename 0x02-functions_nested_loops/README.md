@@ -1,1 +1,1 @@
-* `Task 0 :`program that prints __putchar, followed by a new line.
+program that prints _putchar, followed by a new line.
