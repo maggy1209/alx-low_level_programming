@@ -9,3 +9,5 @@
 5. function that checks for alphabetic character.
 
 6. function that prints the sign of a number.
+
+7. function that computes the absolute value of an integer.
