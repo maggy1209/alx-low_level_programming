@@ -13,3 +13,4 @@
     * Prototype: `void print_most_numbers(void);`
     * Do not print `2` and `4`
     * You can only use `_putchar` twice in your code.
+6. `Task 5 :` - function that prints 10 times the numbers, from `0` to `14`, followed by a new line.
