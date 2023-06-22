@@ -8,4 +8,8 @@
 
 *Prototype: int mul(int a, int b);
 4. `Task 3 :` -function that prints the numbers, from 0 to 9, followed by a new line.
+5. `Task 4 :` - function that prints the numbers, from 0 to 9, followed by a new line.
 
+    * Prototype: `void print_most_numbers(void);`
+    * Do not print `2` and `4`
+    * You can only use `_putchar` twice in your code.
