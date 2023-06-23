@@ -25,3 +25,10 @@
      *  if size is 0 or less, the function should print only a new line
      * Use the character # to print the triangle
 11. `Task 10 :` -program that finds and prints the largest prime factor of the number 612852475143, followed by a new line.
+12. `Task 11 :` -function that prints an integer.
+
+Prototype: void print_number(int n);
+You can only use _putchar function to print
+You are not allowed to use long
+You are not allowed to use arrays or pointers
+You are not allowed to hard-code special values
