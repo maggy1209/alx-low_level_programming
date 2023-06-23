@@ -24,3 +24,4 @@
      *  Where size is the size of the triangle
      *  if size is 0 or less, the function should print only a new line
      * Use the character # to print the triangle
+11. `Task 10 :` -program that finds and prints the largest prime factor of the number 612852475143, followed by a new line.
