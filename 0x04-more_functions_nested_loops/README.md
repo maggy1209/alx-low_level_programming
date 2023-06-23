@@ -17,3 +17,10 @@
 7. `Task 6 :` - function that draws a straight line in the terminal.
 8. `Task 7 :` - function that draws a diagonal line on the terminal.
 9. `Task 8 :` - function that prints a square, followed by a new line.
+10. `Task 9:` - function that prints a triangle, followed by a new line.
+
+      * Prototype: void print_triangle(int size);
+     * You can only use _putchar function to print
+     *  Where size is the size of the triangle
+     *  if size is 0 or less, the function should print only a new line
+     * Use the character # to print the triangle
