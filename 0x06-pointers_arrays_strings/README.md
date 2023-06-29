@@ -21,4 +21,6 @@ Task `4` : function that reverses the content of an array of integers.
 * Where n is the number of elements of the array
 Task `5` : function that changes all lowercase letters of a string to uppercase.
 * Prototype: char *string_toupper(char *);
-
+Task `6` : function that capitalizes all words of a string.
+* Prototype: char *cap_string(char *);
+* Separators of words: space, tabulation, new line, ,, ;, ., !, ?, ", (, ), {, and }
