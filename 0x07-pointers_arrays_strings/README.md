@@ -22,3 +22,7 @@
 * Returns a pointer to the beginning of the located substring, or NULL if the substring is not found.
 6. function that prints the chessboard.
 * Prototype: void print_chessboard(char (*a)[8]);
+7.  function that prints the sum of the two diagonals of a square matrix of integers.
+* Prototype: void print_diagsums(int *a, int size);
+* Format: see example
+* You are allowed to use the standard library
