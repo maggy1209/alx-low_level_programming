@@ -28,4 +28,4 @@
 * You are allowed to use the standard library
 8. function that sets the value of a pointer to a char.
 * Prototype: void set_string(char **s, char *to);
-
+9. file that contains the password for the [crackme2]() executable.
