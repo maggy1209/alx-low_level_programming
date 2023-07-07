@@ -3,4 +3,5 @@
 3. program that prints all arguments it receives.
 4. program that multiplies two numbers.
 5. program that adds positive numbers.
+6.  program that prints the minimum number of coins to make change for an amount of money.
 
