@@ -11,3 +11,4 @@ Task 2 : unction that prints a struct dog
 * You are allowed to use the standard library
 * If an element of d is NULL, print (nil) instead of this element. (if name is NULL, print Name: (nil))
 * If d is NULL print nothing.
+Task 3 : Define a new type dog_t as a new name for the type struct dog.
