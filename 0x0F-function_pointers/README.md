@@ -33,4 +33,15 @@ Task 3 (b)  * op_add: returns the sum of a and b. Prototype: int op_add(int a, i
  * op_mul: returns the product of a and b. Prototype: int op_mul(int a, int b);
  * op_div: returns the result of the division of a by b. Prototype: int op_div(int a, int b);
  * op_mod: returns the remainder of the division of a by b. Prototype: int op_mod(int a, int b);
-
+Task 3 (c) 
+ * Prototype: int (*get_op_func(char *s))(int, int);
+ * where s is the operator passed as argument to the program
+ * This function returns a pointer to the function that corresponds to the operator given as a parameter. Example: get_op_func("+") should return a pointer to the function op_add
+ * You are not allowed to use switch statements
+ * You are not allowed to use for or do ... while loops
+ * You are not allowed to use goto
+ * You are not allowed to use else
+ * You are not allowed to use more than one if statement in your code
+ * You are not allowed to use more than one while loop in your code
+ * If s does not match any of the 5 expected operators (+, -, *, /, %), return NULL
+ * You are only allowed to declare these two variables in this function:
